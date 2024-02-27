@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRM.API", "CRM.API\CRM.API.csproj", "{F04089CF-A87C-416C-8DFD-C9895B05B340}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRM.DTOs", "CRM.DTOs\CRM.DTOs.csproj", "{DA9C478A-B9A4-46C3-9A68-45ACEC637515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM.AppWebMVC", "CRM.AppWebMVC\CRM.AppWebMVC.csproj", "{D0F8CF42-7B45-4B02-A837-6E6703442596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F04089CF-A87C-416C-8DFD-C9895B05B340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04089CF-A87C-416C-8DFD-C9895B05B340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04089CF-A87C-416C-8DFD-C9895B05B340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04089CF-A87C-416C-8DFD-C9895B05B340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9C478A-B9A4-46C3-9A68-45ACEC637515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9C478A-B9A4-46C3-9A68-45ACEC637515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9C478A-B9A4-46C3-9A68-45ACEC637515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9C478A-B9A4-46C3-9A68-45ACEC637515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F8CF42-7B45-4B02-A837-6E6703442596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F8CF42-7B45-4B02-A837-6E6703442596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F8CF42-7B45-4B02-A837-6E6703442596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F8CF42-7B45-4B02-A837-6E6703442596}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C012523-FC74-494C-9594-0500136C2E65}
+	EndGlobalSection
+EndGlobal
